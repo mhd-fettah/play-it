@@ -14,6 +14,8 @@ In Claude Code:
 
 Then say **play it**. Turn it up. **q** stops it.
 
+Or download [play-it.zip](https://github.com/mhd-fettah/play-it/releases/latest/download/play-it.zip) and unzip it into `~/.claude/skills/`.
+
 ## Needs
 
 - [Claude Code](https://claude.com/claude-code)
@@ -21,6 +23,6 @@ Then say **play it**. Turn it up. **q** stops it.
 - `ffplay` for the sound (comes with [ffmpeg](https://ffmpeg.org/download.html))
 - A true-colour terminal of at least 124 x 31
 
-Without Claude Code: `node plugins/play-it/skills/play-it/player.js`
+Without Claude Code: `node play-it/player.js` from the unzipped folder.
 
 Made by Fettah.
