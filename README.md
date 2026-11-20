@@ -28,3 +28,5 @@ Or download [play-it.zip](https://github.com/mhd-fettah/play-it/releases/latest/
 Without Claude Code: `node play-it/player.js` from the unzipped folder.
 
 Made by Fettah. Code under MIT, song under CC BY-NC 4.0: see [LICENSE](LICENSE).
+
+<p align="center"><a href="#install"><img src=".github/play-it.svg" alt="> play it. Clawd: turn it up. all the way to MAX." width="820"></a></p>
