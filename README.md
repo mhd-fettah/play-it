@@ -25,4 +25,4 @@ Or download [play-it.zip](https://github.com/mhd-fettah/play-it/releases/latest/
 
 Without Claude Code: `node play-it/player.js` from the unzipped folder.
 
-Made by Fettah.
+Made by Fettah. Code under MIT, song under CC BY-NC 4.0: see [LICENSE](LICENSE).
