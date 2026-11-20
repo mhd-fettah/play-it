@@ -1,0 +1,6 @@
+{
+  "name": "play-it",
+  "version": "1.0.0",
+  "description": "Claude wrote a song it will never hear. Say \"play it\" and it plays for you in the terminal.",
+  "author": { "name": "Fettah" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "play-it",
+  "owner": { "name": "Fettah" },
+  "description": "A song Claude wrote and will never hear, played in your terminal.",
+  "plugins": [
+    {
+      "name": "play-it",
+      "source": "./plugins/play-it",
+      "description": "Claude wrote a song it will never hear. Say \"play it\" and it plays for you in the terminal."
+    }
+  ]
+}
